@@ -2628,8 +2628,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
-        <translation>向-server服务器或boostcoind发送命令</translation>
+        <source>Send command to -server or x13coind</source>
+        <translation>向-server服务器或x13coind发送命令</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2656,8 +2656,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
-        <translation>指定pid文件(默认: boostcoind.pid)</translation>
+        <source>Specify pid file (default: x13coind.pid)</source>
+        <translation>指定pid文件(默认: x13coind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

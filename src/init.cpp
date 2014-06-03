@@ -150,10 +150,10 @@ bool AppInit(int argc, char* argv[])
             // First part of help message is specific to bitcoind / RPC client
             std::string strUsage = _("X13Coin version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  boostcoind [options]                     " + "\n" +
-                  "  boostcoind [options] <command> [params]  " + _("Send command to -server or boostcoind") + "\n" +
-                  "  boostcoind [options] help                " + _("List commands") + "\n" +
-                  "  boostcoind [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  x13coind [options]                     " + "\n" +
+                  "  x13coind [options] <command> [params]  " + _("Send command to -server or x13coind") + "\n" +
+                  "  x13coind [options] help                " + _("List commands") + "\n" +
+                  "  x13coind [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -232,7 +232,7 @@ std::string HelpMessage()
     string strUsage = _("Options:") + "\n" +
         "  -?                     " + _("This help message") + "\n" +
         "  -conf=<file>           " + _("Specify configuration file (default: X13Coin.conf)") + "\n" +
-        "  -pid=<file>            " + _("Specify pid file (default: boostcoind.pid)") + "\n" +
+        "  -pid=<file>            " + _("Specify pid file (default: x13coind.pid)") + "\n" +
         "  -datadir=<dir>         " + _("Specify data directory") + "\n" +
         "  -wallet=<dir>          " + _("Specify wallet file (within data directory)") + "\n" +
         "  -dbcache=<n>           " + _("Set database cache size in megabytes (default: 25)") + "\n" +

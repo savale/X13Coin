@@ -2635,8 +2635,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
-        <translation>Send kommando til-server eller boostcoind</translation>
+        <source>Send command to -server or x13coind</source>
+        <translation>Send kommando til-server eller x13coind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2660,8 +2660,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
-        <translation>Angiv pid fil (standard: boostcoind.pid)</translation>
+        <source>Specify pid file (default: x13coind.pid)</source>
+        <translation>Angiv pid fil (standard: x13coind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

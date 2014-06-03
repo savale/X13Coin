@@ -4,6 +4,6 @@ See doc/readme-qt.rst for instructions on building X13Coin QT,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of X13Coin.
 
-See doc/build-*.txt for instructions on building boostcoind,
+See doc/build-*.txt for instructions on building x13coind,
 the intended-for-services, no-graphical-interface, reference
 implementation of X13Coin.

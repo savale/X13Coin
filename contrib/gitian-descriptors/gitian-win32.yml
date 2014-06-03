@@ -59,10 +59,10 @@ script: |
   export LD_PRELOAD=/usr/lib/faketime/libfaketime.so.1
   export FAKETIME=$REFERENCE_DATETIME
   export TZ=UTC
-  make -f makefile.linux-mingw $MAKEOPTS DEPSDIR=$HOME/build boostcoind.exe USE_UPNP=1 DEBUGFLAGS="-frandom-seed=X13Coin"
-  i586-mingw32msvc-strip boostcoind.exe
+  make -f makefile.linux-mingw $MAKEOPTS DEPSDIR=$HOME/build x13coind.exe USE_UPNP=1 DEBUGFLAGS="-frandom-seed=X13Coin"
+  i586-mingw32msvc-strip x13coind.exe
   mkdir $OUTDIR/daemon
-  cp boostcoind.exe $OUTDIR/daemon
+  cp x13coind.exe $OUTDIR/daemon
   cd ..
   mkdir nsis
   git archive HEAD | tar -x -C nsis

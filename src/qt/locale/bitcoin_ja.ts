@@ -2634,8 +2634,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
-        <translation>-server か boostcoindへコマンドを送る。</translation>
+        <source>Send command to -server or x13coind</source>
+        <translation>-server か x13coindへコマンドを送る。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2659,8 +2659,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
-        <translation>pid ファイルを特定する (デフォルト: boostcoind.pid)</translation>
+        <source>Specify pid file (default: x13coind.pid)</source>
+        <translation>pid ファイルを特定する (デフォルト: x13coind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

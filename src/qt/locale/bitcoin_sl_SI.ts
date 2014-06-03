@@ -2633,7 +2633,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
+        <source>Send command to -server or x13coind</source>
         <translation>Pošlji ukaz na -server ali blackoind</translation>
     </message>
     <message>
@@ -2658,7 +2658,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
+        <source>Specify pid file (default: x13coind.pid)</source>
         <translation>Določi pid datoteko (privzeto: X13Coin.pid)</translation>
     </message>
     <message>

@@ -81,4 +81,4 @@ X13Coin
 DOS prompt:
 cd \X13Coin\src
 mingw32-make -f makefile.mingw
-strip boostcoind.exe
+strip x13coind.exe

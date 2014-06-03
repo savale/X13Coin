@@ -2610,7 +2610,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
+        <source>Send command to -server or x13coind</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2635,7 +2635,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
+        <source>Specify pid file (default: x13coind.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>

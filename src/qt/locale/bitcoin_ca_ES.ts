@@ -2626,8 +2626,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
-        <translation>Enviar comandes a -server o boostcoind</translation>
+        <source>Send command to -server or x13coind</source>
+        <translation>Enviar comandes a -server o x13coind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2651,8 +2651,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: boostcoind.pid)</translation>
+        <source>Specify pid file (default: x13coind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: x13coind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

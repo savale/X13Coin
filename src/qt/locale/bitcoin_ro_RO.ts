@@ -2635,8 +2635,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
-        <translation>Trimite comanda catre server sau boostcoind</translation>
+        <source>Send command to -server or x13coind</source>
+        <translation>Trimite comanda catre server sau x13coind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2660,7 +2660,7 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
+        <source>Specify pid file (default: x13coind.pid)</source>
         <translation>Speficica fisier pid(implicit: X13Coin.pid)</translation>
     </message>
     <message>

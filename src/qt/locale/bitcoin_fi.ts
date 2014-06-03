@@ -2633,8 +2633,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
-        <translation>Syötä komento kohteeseen -server tai boostcoind</translation>
+        <source>Send command to -server or x13coind</source>
+        <translation>Syötä komento kohteeseen -server tai x13coind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2658,7 +2658,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
+        <source>Specify pid file (default: x13coind.pid)</source>
         <translation>Määritä prosessitiedosto (oletus: X13Coin.pid)</translation>
     </message>
     <message>

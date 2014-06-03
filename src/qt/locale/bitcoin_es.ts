@@ -2638,8 +2638,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
-        <translation>Envía un comando a -server o boostcoind</translation>
+        <source>Send command to -server or x13coind</source>
+        <translation>Envía un comando a -server o x13coind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2666,8 +2666,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: boostcoind.pid)</translation>
+        <source>Specify pid file (default: x13coind.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: x13coind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

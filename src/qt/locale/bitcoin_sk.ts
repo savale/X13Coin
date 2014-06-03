@@ -2634,8 +2634,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
-        <translation>Pošli príkaz na -server alebo boostcoind</translation>
+        <source>Send command to -server or x13coind</source>
+        <translation>Pošli príkaz na -server alebo x13coind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2659,8 +2659,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: boostcoind.pid)</translation>
+        <source>Specify pid file (default: x13coind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: x13coind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

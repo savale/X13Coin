@@ -2621,8 +2621,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
-        <translation>Отправить команду на -server или boostcoind</translation>
+        <source>Send command to -server or x13coind</source>
+        <translation>Отправить команду на -server или x13coind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2647,8 +2647,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: boostcoind.pid)</translation>
+        <source>Specify pid file (default: x13coind.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: x13coind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

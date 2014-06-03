@@ -2636,8 +2636,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
-        <translation>Skicka kommando till -server eller boostcoind</translation>
+        <source>Send command to -server or x13coind</source>
+        <translation>Skicka kommando till -server eller x13coind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2661,8 +2661,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
-        <translation>Ange pid filen (standard boostcoind.pid)</translation>
+        <source>Specify pid file (default: x13coind.pid)</source>
+        <translation>Ange pid filen (standard x13coind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>

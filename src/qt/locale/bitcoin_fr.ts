@@ -2635,8 +2635,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or boostcoind</source>
-        <translation>Envoyer commande à -server ou boostcoind</translation>
+        <source>Send command to -server or x13coind</source>
+        <translation>Envoyer commande à -server ou x13coind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2660,8 +2660,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: boostcoind.pid)</source>
-        <translation>Spécifier le fichier pid (par défaut: boostcoind.pid)</translation>
+        <source>Specify pid file (default: x13coind.pid)</source>
+        <translation>Spécifier le fichier pid (par défaut: x13coind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
