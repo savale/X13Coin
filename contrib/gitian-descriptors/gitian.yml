@@ -20,7 +20,7 @@ packages:
 - "libpng12-dev"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/X13Coin/X13Coin.git"
+- "url": "https://github.com/savale/X13Coin.git"
   "dir": "X13Coin"
 files:
 - "miniupnpc-1.6.tar.gz"
